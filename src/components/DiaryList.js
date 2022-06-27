@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+
+// COMPONENTS
 import DiaryItem from "./DiaryItem";
 import MyButton from "./MyButton";
 
