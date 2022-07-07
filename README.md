@@ -25,7 +25,33 @@ localstorage로 일기 내용을 저장했으며, firebase를 통해 배포를 �
 <br/>
 
 <p align="center">
-<img src="" />
+
+<br/>
+
+### 📓 MAIN - 메인 페이지
+
+<img src="public\assets\diary1.png" alt="emotion_diary : main_page"/>
+
+<br/>
+
+### 📓 NEW - 일기 작성
+
+<img src="public\assets\diary2.png" alt="emotion_diary : new_page"/>
+
+<br/>
+
+### 📓 EDIT - 일기 수정
+
+<img src="public\assets\diary3.png" alt="emotion_diary : edit_page"/>
+
+<br/>
+
+### 📓 DIARY - 일기 상세페이지
+
+<img src="public\assets\diary4.png" alt="emotion_diary : diary_page"/>
+
+<br/>
+
 </p>
 
 <br /><br /><br />
